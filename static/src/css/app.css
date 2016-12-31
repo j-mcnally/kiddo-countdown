@@ -1,0 +1,13 @@
+.container {
+  margin: auto;
+  text-align: center;
+  width: 80%;
+  font-family: arial;
+  height: 100vh;
+}
+
+.content {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
